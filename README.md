@@ -2,10 +2,12 @@
 
 AURA is a smart virtual assistant that uses AI to understand and respond to user queries. It helps users by boosting productivity, creativity, and problem-solving through seamless interaction. With the ability to learn from the user and adapt to their needs, AURA provides instant help for any questions or ideas you want to explore.
 
+Website link: https://aura-assist.netlify.app
+
 ## Demo
 
 ![AURA Chat App Demo](output/output.png)
-![AURA Chat App Demo](output/output.mov)
+▶️[Watch Demo Video](https://drive.google.com/file/d/1e-oPzRxVrT8csOP0e0ZZtNejlu0PGtHA/view?usp=sharing)
 
 ---
 
